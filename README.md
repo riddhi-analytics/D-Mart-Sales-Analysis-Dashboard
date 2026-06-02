@@ -48,28 +48,35 @@ Comparison of Free Shipping, Priority, and Express Plus services.
 7. Customer Satisfaction Analysis
 Average customer rating measurement.
 Evaluation of customer experience and service quality.
+
 🔍 Key Insights
 Sales Performance
 Generated $16.95M in total sales from 25K orders.
 Monthly sales remained stable between $0.40M and $0.54M.
 Consistent sales growth indicates strong customer demand and retention.
+
 Customer Distribution
 Customer base is evenly distributed across:
 Maharashtra
 Andhra Pradesh
 Gujarat
 Telangana
+
 Order Fulfillment
 Majority of orders were successfully delivered.
 Cancellation rate stands at 7.14%, highlighting opportunities for operational improvement.
+
 Payment Preferences
 Debit and Credit Cards contribute the largest share of revenue.
 UPI has emerged as a strong digital payment channel.
+
 Shipping Trends
 Free Shipping is the most preferred delivery option.
 Customers show lower adoption of premium shipping services.
+
 Customer Satisfaction
 Average rating of 4.0/5 reflects a positive customer experience.
+
 🛠️ Tools & Technologies Used
 Power BI Desktop
 Power Query
@@ -77,6 +84,7 @@ DAX (Data Analysis Expressions)
 Data Modeling
 Data Cleaning & Transformation
 Interactive Dashboard Design
+
 📂 Data Preparation Process
 Data Cleaning using Power Query
 Handling Missing Values
@@ -86,10 +94,9 @@ Developing DAX Measures
 Building Relationships and Data Model
 Designing Interactive Visualizations
 Dashboard Optimization
+
 📊 Data Model
-
 The dashboard follows a Star Schema approach:
-
 Fact Table
 Sales Transactions
 Dimension Tables
@@ -99,35 +106,37 @@ Location Dimension
 Date Dimension
 Payment Dimension
 Shipping Dimension
-
 This structure improves reporting performance and supports scalable analytics.
 
 🚀 Business Recommendations
 Improve Order Fulfillment
 Reduce cancellations through better inventory planning.
 Monitor return reasons to improve product quality and logistics.
+
 Optimize Marketing Strategy
 Target promotions during high-performing sales periods.
 Use customer segmentation for personalized campaigns.
+
 Increase Digital Payments
 Encourage UPI adoption through cashback and reward programs.
 Promote cashless transactions for operational efficiency.
+
 Enhance Shipping Strategy
 Introduce premium delivery benefits.
 Improve conversion toward Priority and Express shipping services.
+
 📷 Dashboard Preview
 <img width="100%" alt="D-Mart Sales Dashboard" src="dashboard_screenshot.png">
+
 📈 Project Outcome
-
 The dashboard successfully provides a centralized view of D-Mart's sales and operational performance, enabling stakeholders to:
-
 Track business growth.
 Monitor customer behavior.
 Improve fulfillment efficiency.
 Optimize marketing and pricing strategies.
 Make informed business decisions using data-driven insights.
-👨‍💻 Author
 
+👨‍💻 Author
 Riddhi Desai
 Data Analyst | Power BI Developer | Business Intelligence Enthusiast
 
