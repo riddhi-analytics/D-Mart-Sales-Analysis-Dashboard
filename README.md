@@ -19,6 +19,7 @@ Total Order Value	$16.95M
 Total Orders	25K
 Average Order Value	$678.16
 Cancellation Rate	7.14%
+
 📈 Dashboard Features
 1. Sales Trend Analysis
 Monthly sales performance from 2021–2023.
@@ -50,6 +51,7 @@ Average customer rating measurement.
 Evaluation of customer experience and service quality.
 
 🔍 Key Insights
+
 Sales Performance
 Generated $16.95M in total sales from 25K orders.
 Monthly sales remained stable between $0.40M and $0.54M.
